@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Boyut Bilgisine Göre Üçgen Çizme/1.0.0": {
+        "runtime": {
+          "Boyut Bilgisine Göre Üçgen Çizme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Boyut Bilgisine Göre Üçgen Çizme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

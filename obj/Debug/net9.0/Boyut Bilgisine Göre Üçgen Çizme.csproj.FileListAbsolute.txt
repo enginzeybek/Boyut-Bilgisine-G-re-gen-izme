@@ -1,0 +1,14 @@
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Boyut Bilgisine Göre Üçgen Çizme\bin\Debug\net9.0\Boyut Bilgisine Göre Üçgen Çizme.exe
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Boyut Bilgisine Göre Üçgen Çizme\bin\Debug\net9.0\Boyut Bilgisine Göre Üçgen Çizme.deps.json
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Boyut Bilgisine Göre Üçgen Çizme\bin\Debug\net9.0\Boyut Bilgisine Göre Üçgen Çizme.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Boyut Bilgisine Göre Üçgen Çizme\bin\Debug\net9.0\Boyut Bilgisine Göre Üçgen Çizme.dll
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Boyut Bilgisine Göre Üçgen Çizme\bin\Debug\net9.0\Boyut Bilgisine Göre Üçgen Çizme.pdb
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Boyut Bilgisine Göre Üçgen Çizme\obj\Debug\net9.0\Boyut Bilgisine Göre Üçgen Çizme.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Boyut Bilgisine Göre Üçgen Çizme\obj\Debug\net9.0\Boyut Bilgisine Göre Üçgen Çizme.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Boyut Bilgisine Göre Üçgen Çizme\obj\Debug\net9.0\Boyut Bilgisine Göre Üçgen Çizme.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Boyut Bilgisine Göre Üçgen Çizme\obj\Debug\net9.0\Boyut Bilgisine Göre Üçgen Çizme.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Boyut Bilgisine Göre Üçgen Çizme\obj\Debug\net9.0\Boyut Bilgisine Göre Üçgen Çizme.dll
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Boyut Bilgisine Göre Üçgen Çizme\obj\Debug\net9.0\refint\Boyut Bilgisine Göre Üçgen Çizme.dll
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Boyut Bilgisine Göre Üçgen Çizme\obj\Debug\net9.0\Boyut Bilgisine Göre Üçgen Çizme.pdb
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Boyut Bilgisine Göre Üçgen Çizme\obj\Debug\net9.0\Boyut Bilgisine Göre Üçgen Çizme.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Boyut Bilgisine Göre Üçgen Çizme\obj\Debug\net9.0\ref\Boyut Bilgisine Göre Üçgen Çizme.dll
